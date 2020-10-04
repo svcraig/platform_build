@@ -29,7 +29,7 @@ PRODUCT_PACKAGES += \
     Launcher3QuickStep \
     OneTimeInitializer \
     Provision \
-	Seedvault \
+    Seedvault \
     Settings \
     SettingsIntelligence \
     StorageManager \
